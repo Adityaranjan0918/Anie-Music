@@ -17,7 +17,7 @@ OWNER = int(getenv("OWNER", 5360305806))
 OWNER_USERNAME = getenv("OWNER_USERNAME","New_AMBOT")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/AbhiModszYT/AnieXEricaMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/adityaranjan0918/Anie-Music")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN",None)
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Logs_Gban")
@@ -45,10 +45,10 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/f234fa4e140eb1b85d185.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/f234fa4e140eb1b85d185.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/f2f22a79d763e4f0b0985.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/f2f22a79d763e4f0b0985.jpg")
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = getenv("STATS_IMG_URL", "https://graph.org/file/f234fa4e140eb1b85d185.jpg")
+STATS_IMG_URL = getenv("STATS_IMG_URL", "https://telegra.ph/file/f2f22a79d763e4f0b0985.jpg")
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
